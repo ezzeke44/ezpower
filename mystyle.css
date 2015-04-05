@@ -57,7 +57,15 @@ a:active {
   background-color: red;
 }
 
-nav, article {
+nav {
+  border: 2px solid black;
+  margin: 5px;
+  padding: 8px;
+  background: white;
+  font-size: 100%;
+}
+
+article {
   border: 2px solid black;
   margin: 5px;
   padding: 8px;
