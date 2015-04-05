@@ -36,13 +36,13 @@ nav ul li {
 a:link {
   color:red;
   text-decoration: none;
-  background-color: white;
+  background-color: yellow;
 }
 
 a:visited {
   color: blue;
   text-decoration: line-through;
-  background-color: white;
+  background-color: yellow;
 }
 
 a:hover {
@@ -62,7 +62,7 @@ nav {
   margin: 5px;
   padding: 8px;
   background: white;
-  font-size: 300%;
+  font-size: 200%;
 }
 
 article {
