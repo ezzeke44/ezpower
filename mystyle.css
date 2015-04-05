@@ -1,5 +1,5 @@
 body {
-background-color: linear-gradient(red, blue);
+background-color: radial-gradient(red, green, blue);
 text-align: center;
 font-family: Verdana, sans-serif;
 }
