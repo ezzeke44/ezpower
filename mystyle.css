@@ -5,3 +5,9 @@ background-color: linen;
 h1 {
   font-size: 400%;
 }
+
+header {
+  border: 2px solid black;
+  margin: 5px;
+  padding: 8px;
+}
