@@ -9,7 +9,7 @@ h1 {
 }
 
 header {
-  border: 2px solid black;
+  border: 6px solid black;
   margin: 5px;
   padding: 8px;
   background: blue;
@@ -55,4 +55,11 @@ a:active {
   color: purple;
   text-decoration: underline;
   background-color: red;
+}
+
+nav, article {
+  border: 2px solid black;
+  margin: 5px;
+  padding: 8px;
+  background: white;
 }
