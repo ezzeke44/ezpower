@@ -10,4 +10,8 @@ header {
   border: 2px solid black;
   margin: 5px;
   padding: 8px;
+  background: blue;
+  color: green;
+  text-decoration: underline;
+  text-shadow: 4px 4px red;
 }
