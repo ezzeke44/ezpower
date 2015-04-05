@@ -34,13 +34,13 @@ nav ul li {
 a:link {
   color:red;
   text-decoration: none;
-  background-color: black;
+  background-color: white;
 }
 
 a:visited {
   color: blue;
   text-decoration: line-through;
-  background-color: black;
+  background-color: white;
 }
 
 a:hover {
