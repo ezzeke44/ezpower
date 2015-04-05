@@ -3,7 +3,7 @@ background-color: linen;
 }
 
 h1 {
-  font-size: 400%;
+  font-size: 700%;
 }
 
 header {
@@ -13,5 +13,5 @@ header {
   background: blue;
   color: green;
   text-decoration: underline;
-  text-shadow: 4px 4px red;
+  text-shadow: 2px 2px red;
 }
