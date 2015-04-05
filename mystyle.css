@@ -30,3 +30,27 @@ nav ul li {
   display: inline;
   margin: 10px; 
 }
+
+a:link {
+  color:red;
+  text-decoration: none;
+  background-color: black;
+}
+
+a:visited {
+  color: blue;
+  text-decoration: line-through;
+  background-color: black;
+}
+
+a:hover {
+  color: green;
+  text-decoration: underline;
+  background-color: red;
+}
+
+a:active {
+  color: purple;
+  text-decoration: underline;
+  background-color: red;
+}
