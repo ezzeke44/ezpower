@@ -19,7 +19,7 @@ header {
 }
 
 p.top {
-  font-size: 200%;
+  font-size: 400%;
   font-style: italic;
 }
 
@@ -62,7 +62,7 @@ nav {
   margin: 5px;
   padding: 8px;
   background: white;
-  font-size: 100%;
+  font-size: 200%;
 }
 
 article {
