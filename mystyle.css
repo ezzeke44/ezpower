@@ -23,6 +23,12 @@ p.top {
   font-style: italic;
 }
 
+p.welcome {
+  font-size: 200%;
+  font-style: italic;
+  text-decoration: underline bold;
+  color: red;
+}
 nav ul {
   margin: 0;
   padding: 0;
