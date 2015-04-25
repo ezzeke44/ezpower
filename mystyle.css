@@ -2,9 +2,6 @@ body {
 background-color: aqua;
 text-align: center;
 font-family: Verdana, sans-serif;
-SCROLLBAR-FACE-COLOR: red; SCROLLBAR-HIGHLIGHT-COLOR: gray; 
-SCROLLBAR-SHADOW-COLOR: black; SCROLLBAR-ARROW-COLOR: gray; 
-SCROLLBAR-TRACK-COLOR: black; SCROLLBAR-DARKSHADOW-COLOR: red
 }
 
 h1 {
