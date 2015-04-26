@@ -94,3 +94,12 @@ h2 {
 ol {
   text-align: left;
 }
+
+ul.samples {
+  margin: 3px;
+  padding: 3px;
+}
+ul.samples li {
+  display: inline;
+  margin: 15px;
+}
